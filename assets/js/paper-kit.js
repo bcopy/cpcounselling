@@ -146,7 +146,7 @@ pk = {
                     $('.navbar[color-on-scroll]').addClass('navbar-transparent');
                 }
             }
-    }, 17),
+    }, 10),
 
     initPopovers: function(){
         if($('[data-toggle="popover"]').length != 0){
