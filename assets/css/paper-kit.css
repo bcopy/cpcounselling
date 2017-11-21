@@ -71,6 +71,16 @@ h1 small, h2 small, h3 small, h1 .small, h2 .small, h3 .small {
   font-size: 60%;
 }
 
+.navbar-brand small {
+  display:block;
+  font-size:12px;
+}
+
+.main .section:first-of-type {
+    position: relative;
+    z-index: 2;
+}
+
 div.motto > div.card{
     background-color: transparent !important;
 }
