@@ -139,11 +139,20 @@ pk = {
                 if(transparent) {
                     transparent = false;
                     $('.navbar[color-on-scroll]').removeClass('navbar-transparent');
+                    $('.carousel').carousel({
+                        pause: true,
+                        interval: false
+                    });
+
                 }
             } else {
                 if( !transparent ) {
                     transparent = true;
                     $('.navbar[color-on-scroll]').addClass('navbar-transparent');
+                    $('.carousel').carousel({
+                        pause: false,
+                        interval: 4000
+                    });
                 }
             }
     }, 10),
