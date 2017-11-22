@@ -384,7 +384,7 @@ input[type="file"] > input[type="button"]::-moz-focus-inner {
 }
 
 .navbar-transparent {
-  background-color: #0000002b !important;
+  background-color: #0000003c !important;
   border-bottom: 1px solid transparent;
 }
 
@@ -2413,7 +2413,7 @@ textarea.form-control {
 }
 
 .navbar-transparent {
-  background: #00000014 !important;
+  background: #0000003c !important;
   border-bottom: 1px solid transparent;
   box-shadow: none;
 }
@@ -5731,7 +5731,7 @@ textarea.form-control {
   justify-content: center;
 }
 .page-header .filter::after {
-  background-color: rgba(0, 0, 0, 0.3);
+  background-color: rgba(0, 0, 0, 0.15);
   content: "";
   display: block;
   height: 100%;

@@ -1,5 +1,7 @@
 MIT License
 
+Copyright (c) 2017 Chantal Prinsloo Counselling
+
 Copyright (c) 2017 Creative Tim
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
