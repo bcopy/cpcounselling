@@ -139,6 +139,7 @@ pk = {
                 if(transparent) {
                     transparent = false;
                     $('.navbar[color-on-scroll]').removeClass('navbar-transparent');
+                    $('#brand-logo').attr('src',"assets/img/brand-inverted.png");
                     $('.carousel').carousel({
                         pause: true,
                         interval: false
@@ -149,6 +150,7 @@ pk = {
                 if( !transparent ) {
                     transparent = true;
                     $('.navbar[color-on-scroll]').addClass('navbar-transparent');
+                    $('#brand-logo').attr('src',"assets/img/brand.png");
                     $('.carousel').carousel({
                         pause: false,
                         interval: 4000

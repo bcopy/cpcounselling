@@ -89,6 +89,9 @@ div.motto > div.card{
     .page-header.girl {
         background-position-x: -200px !important; 
     }
+    #brand-logo{
+        width: 100%;
+    }
 }
 
 div.carousel-caption > p {
