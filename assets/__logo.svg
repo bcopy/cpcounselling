@@ -7,6 +7,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="210mm"
@@ -29,8 +30,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="166.96975"
-     inkscape:cy="424.34185"
+     inkscape:cx="754.05198"
+     inkscape:cy="75.490248"
      inkscape:document-units="px"
      inkscape:current-layer="g4185"
      showgrid="false"
@@ -49,7 +50,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -59,14 +60,16 @@
      id="layer1">
     <g
        id="g4191"
-       inkscape:export-xdpi="53.634846"
-       inkscape:export-ydpi="53.634846">
+       inkscape:export-xdpi="53.535152"
+       inkscape:export-ydpi="53.535152"
+       inkscape:export-filename="/home/bcopy/workspace/cpcounselling/assets/img/cpcounselling.png"
+       transform="translate(-60,-80)">
       <circle
          r="214.28572"
          cy="396.07648"
          cx="314.28571"
          id="path4136"
-         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.7;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#fcd67f;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#fcd67f;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.79999995;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
       <text
          sodipodi:linespacing="61.000001%"
          id="text4138"
@@ -87,36 +90,152 @@
     </g>
     <g
        id="g4185"
-       inkscape:export-xdpi="15.922846"
-       inkscape:export-ydpi="15.922846">
+       inkscape:export-xdpi="15.893249"
+       inkscape:export-ydpi="15.893249"
+       inkscape:export-filename="/home/bcopy/workspace/cpcounselling/assets/img/cpcounselling-76.png">
+      <rect
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.96174014;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         id="rect4160"
+         width="751.39172"
+         height="355.06171"
+         x="478.89319"
+         y="482.71704" />
       <g
          id="g4197"
-         inkscape:export-xdpi="15.922846"
-         inkscape:export-ydpi="15.922846">
+         inkscape:export-xdpi="15.893249"
+         inkscape:export-ydpi="15.893249"
+         inkscape:export-filename="/home/bcopy/workspace/cpcounselling/assets/img/cpcounselling-76.png"
+         transform="translate(-205.71429,-69.285714)">
         <circle
            r="214.28572"
            cy="836.07642"
            cx="314.28571"
            id="circle4177"
-           style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.7;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#fcd67f;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+           style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#fcd67f;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.79999995;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
         <text
            sodipodi:linespacing="61.000001%"
            id="text4179"
-           y="958.48218"
+           y="976.90417"
            x="317.27213"
            style="font-style:normal;font-weight:normal;font-size:41.4199295px;line-height:61.00000143%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#353232;fill-opacity:0.94117647;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            xml:space="preserve"><tspan
              dx="1.2057427"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:414.1993103px;line-height:61.00000143%;font-family:Sexsmith;-inkscape-font-specification:Sexsmith;text-align:center;letter-spacing:34.8528595px;text-anchor:middle;fill:#353232;fill-opacity:0.94117647"
-             y="958.48218"
+             y="976.90417"
              x="334.69855"
              id="tspan4181"
              sodipodi:role="line">CP</tspan><tspan
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:207.09965515px;line-height:61.00000143%;font-family:Sexsmith;-inkscape-font-specification:Sexsmith;text-align:center;text-anchor:middle;fill:#353232;fill-opacity:0.94117647"
              id="tspan4183"
-             y="1211.1438"
+             y="1229.5658"
              x="317.27213"
              sodipodi:role="line" /></text>
+      </g>
+      <g
+         id="g4188"
+         transform="matrix(1.0545939,0,0,1.0545939,-40.44539,-34.485121)"
+         inkscape:export-filename="/home/bcopy/workspace/cpcounselling/assets/img/brand.png"
+         inkscape:export-xdpi="72.053535"
+         inkscape:export-ydpi="72.053535">
+        <text
+           sodipodi:linespacing="125%"
+           id="text4152"
+           y="662.40778"
+           x="674.86053"
+           style="font-style:normal;font-weight:normal;font-size:11.30731106px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.44145203px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';fill:#ffffff"
+             y="662.40778"
+             x="674.86053"
+             id="tspan4154"
+             sodipodi:role="line">CHANTAL PRINSLOO COUNSELLING</tspan></text>
+        <text
+           sodipodi:linespacing="125%"
+           id="text4156"
+           y="689.60498"
+           x="674.53949"
+           style="font-style:normal;font-weight:normal;font-size:11.32547855px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.98821831px;font-family:Montserrat;-inkscape-font-specification:Montserrat;fill:#ffffff"
+             y="689.60498"
+             x="674.53949"
+             id="tspan4158"
+             sodipodi:role="line">Counselling for adolescents and young adults in Geneva</tspan></text>
+      </g>
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g4197"
+         id="use4186"
+         transform="matrix(0.24160136,0,0,0.24160136,582.31368,481.94561)"
+         width="100%"
+         height="100%"
+         inkscape:export-filename="/home/bcopy/workspace/cpcounselling/assets/img/brand.png"
+         inkscape:export-xdpi="72.053535"
+         inkscape:export-ydpi="72.053535" />
+      <g
+         inkscape:export-ydpi="72.053535"
+         inkscape:export-xdpi="72.053535"
+         inkscape:export-filename="/home/bcopy/workspace/cpcounselling/assets/img/brand-inverted.png"
+         transform="matrix(1.0545939,0,0,1.0545939,-40.44539,77.514879)"
+         id="g4238"
+         style="fill:#413c36;fill-opacity:1">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:11.30731106px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#413c36;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="674.86053"
+           y="662.40778"
+           id="text4240"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan4242"
+             x="674.86053"
+             y="662.40778"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.44145203px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';fill:#413c36;fill-opacity:1">CHANTAL PRINSLOO COUNSELLING</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:11.32547855px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#413c36;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="674.53949"
+           y="689.60498"
+           id="text4244"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan4246"
+             x="674.53949"
+             y="689.60498"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.98821831px;font-family:Montserrat;-inkscape-font-specification:Montserrat;fill:#413c36;fill-opacity:1">Counselling for adolescents and young adults in Geneva</tspan></text>
+      </g>
+      <g
+         transform="matrix(0.24160136,0,0,0.24160136,532.61283,577.20609)"
+         inkscape:export-filename="/home/bcopy/workspace/cpcounselling/assets/img/brand-inverted.png"
+         inkscape:export-ydpi="72"
+         inkscape:export-xdpi="72"
+         id="use4248"
+         style="stroke:#fcd67f;stroke-opacity:1">
+        <circle
+           style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#413c36;fill-opacity:1;fill-rule:nonzero;stroke:#fcd67f;stroke-width:1.79999995;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+           id="circle4252"
+           cx="314.28571"
+           cy="836.07642"
+           r="214.28572" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:41.4199295px;line-height:61.00000143%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#fcd67f;fill-opacity:1;stroke:#fcd67f;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="317.27213"
+           y="976.90417"
+           id="text4254"
+           sodipodi:linespacing="61.000001%"><tspan
+             sodipodi:role="line"
+             id="tspan4256"
+             x="334.69855"
+             y="976.90417"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:414.1993103px;line-height:61.00000143%;font-family:Sexsmith;-inkscape-font-specification:Sexsmith;text-align:center;letter-spacing:34.8528595px;text-anchor:middle;fill:#fcd67f;fill-opacity:1;stroke:#fcd67f;stroke-opacity:1"
+             dx="1.2057427">CP</tspan><tspan
+             sodipodi:role="line"
+             x="317.27213"
+             y="1229.5658"
+             id="tspan4258"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:207.09965515px;line-height:61.00000143%;font-family:Sexsmith;-inkscape-font-specification:Sexsmith;text-align:center;text-anchor:middle;fill:#fcd67f;fill-opacity:1;stroke:#fcd67f;stroke-opacity:1" /></text>
       </g>
     </g>
   </g>
