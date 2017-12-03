@@ -89,6 +89,9 @@ div.motto > div.card{
     .page-header.girl {
         background-position-x: -200px !important; 
     }
+}
+
+@media screen and (max-width: 1200px) {
     #brand-logo{
         width: 100%;
     }
@@ -1996,7 +1999,7 @@ textarea.form-control {
 .navbar .navbar-brand {
   font-weight: 600;
   margin: 5px 0px;
-  padding: 20px 15px;
+  /*padding: 20px 15px;*/
   font-size: 16px;
   color: #66615B;
   text-transform: uppercase;
